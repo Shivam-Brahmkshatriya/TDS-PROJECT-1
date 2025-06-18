@@ -59,4 +59,3 @@ A FastAPI-based backend that:
 ├── .gitignore # Files to ignore in Git
 └── vercel.json # Deployment configuration for Vercel
 
-
